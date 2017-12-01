@@ -1,0 +1,6 @@
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\bin\Debug\TestForGitHubConsoleApp.exe.config
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\bin\Debug\TestForGitHubConsoleApp.exe
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\bin\Debug\TestForGitHubConsoleApp.pdb
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\obj\Debug\TestForGitHubConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\obj\Debug\TestForGitHubConsoleApp.exe
+C:\Users\v-yazhu1\Documents\Visual Studio 2015\Projects\TestForGitHubConsoleApp\TestForGitHubConsoleApp\obj\Debug\TestForGitHubConsoleApp.pdb
